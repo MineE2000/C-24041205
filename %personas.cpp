@@ -3,8 +3,7 @@
 #include <windows.h> 
 #include <iostream> 
 using namespace std; 
-main () 
-{
+int main (){
 	SetConsoleOutputCP(CP_UTF8);
 	SetConsoleCP(CP_UTF8); 
 	float  N1, N2, total, TPH, TPM;
